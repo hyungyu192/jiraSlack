@@ -1,0 +1,6 @@
+xlsxwriter==1.1.2
+schedule==0.6.0
+requests==2.21
+cx_Oracle==7.1.2
+flask==1.0.2
+flask_api==1.1
